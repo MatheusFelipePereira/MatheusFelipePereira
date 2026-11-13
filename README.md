@@ -75,6 +75,33 @@ Solid background in **ETL, DataOps, data quality** and pipeline sustainability, 
   <img src="https://img.shields.io/badge/Meta%20Ads-0467DF?style=flat-square&logo=meta&logoColor=white" />
 </p>
 
+## ⚙️ Data Engineering
+
+<table>
+  <tr>
+    <td>
+      <h3>🧱 <a href="https://github.com/MatheusFelipePereira/Pipelines-databricks">Pipelines-databricks</a></h3>
+      <p>
+        <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" />
+        <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
+        <img src="https://img.shields.io/badge/Delta%20Lake-00ADD4?style=flat-square&logo=delta&logoColor=white" />
+        <img src="https://img.shields.io/badge/Spark%20SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+      </p>
+      <p>End-to-end <b>Medallion</b> ETL (Bronze → Silver → Gold) for a marketing &amp; sales dataset with <b>Lakeflow Declarative Pipelines</b>: channel KPIs and <b>ROAS</b>, <b>data quality expectations</b>, orchestration with a <b>Databricks Job</b> and <b>incremental ingestion</b> with Streaming Tables.</p>
+      <p>
+        ✅ Batch pipeline &nbsp;·&nbsp; ✅ Expectations &nbsp;·&nbsp; ✅ Scheduled Job &nbsp;·&nbsp; 🚧 Incremental
+      </p>
+      <a href="https://github.com/MatheusFelipePereira/Pipelines-databricks"><img src="https://img.shields.io/badge/📂%20Open%20repository-Pipelines--databricks-24292e?style=flat-square&logo=github" /></a>
+    </td>
+  </tr>
+</table>
+
+```mermaid
+flowchart LR
+    S[(Delta source)] --> B[🥉 Bronze] --> SV[🥈 Silver<br/>expectations] --> G[🥇 Gold<br/>KPIs · ROAS]
+    J[⏱️ Job · daily] -.-> B
+```
+
 ## 🗂️ Featured projects
 
 > Each card is a real-world analytics delivery. Click **"Details"** to expand, or open the repository for the full write-up.
