@@ -77,13 +77,15 @@ Solid background in **ETL, DataOps, data quality** and pipeline sustainability, 
 
 ## 🗂️ Featured projects
 
-> Each card is a real-world analytics delivery. Click **"Details"** to expand.
+> Each card is a real-world analytics delivery. Click **"Details"** to expand, or open the repository for the full write-up.
 
 <!-- ----------------------------- 1 ----------------------------- -->
 ### 🏎️ TDRM — Test Data & Results Management
 `Mar 2026 – Oct 2026` · act digital · ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![QuickSight](https://img.shields.io/badge/-Amazon%20QuickSight-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
-<img src="assets/01-tdrm.jpg" width="100%" alt="TDRM dashboards" />
+<a href="https://github.com/MatheusFelipePereira/tdrm-test-data-management"><img src="assets/01-tdrm.jpg" width="100%" alt="TDRM dashboards" /></a>
+
+<a href="https://github.com/MatheusFelipePereira/tdrm-test-data-management"><img src="https://img.shields.io/badge/📂%20Open%20repository-tdrm--test--data--management-24292e?style=flat-square&logo=github" /></a>
 
 Migration of a data-visualization application used by **BMW's engine testing & validation department** from on-premises to the **cloud**, covering several dashboard applications for the full engine test lifecycle.
 
@@ -105,7 +107,9 @@ Scope covers the whole data-management and test-results lifecycle for engines an
 ### 🎯 Customer Analytics — Buyers vs Leads
 `Feb 2025 – Mar 2025` · Data Mundo · ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/-DAX-F2C811?style=flat-square) ![GA](https://img.shields.io/badge/-Google%20Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white) ![Meta Ads](https://img.shields.io/badge/-Meta%20Ads-0467DF?style=flat-square&logo=meta&logoColor=white)
 
-<img src="assets/02-customer-analytics.jpg" width="100%" alt="Customer Analytics dashboard" />
+<a href="https://github.com/MatheusFelipePereira/customer-analytics-buyers-vs-leads"><img src="assets/02-customer-analytics.jpg" width="100%" alt="Customer Analytics dashboard" /></a>
+
+<a href="https://github.com/MatheusFelipePereira/customer-analytics-buyers-vs-leads"><img src="https://img.shields.io/badge/📂%20Open%20repository-customer--analytics--buyers--vs--leads-24292e?style=flat-square&logo=github" /></a>
 
 Marketing report for a digital product: analyzes **buyer and lead data** to find the **best target audience** for upcoming campaigns, highlighting the direct correlation between leads and buyers and how to leverage it to attract new customers.
 
@@ -120,7 +124,9 @@ Marketing report for a digital product: analyzes **buyer and lead data** to find
 ### 🧠 Soft Skills — IT Management
 `Jan 2025 – Feb 2025` · Votorantim Cimentos · ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/-DAX-F2C811?style=flat-square) ![Forms](https://img.shields.io/badge/-Microsoft%20Forms-7719AA?style=flat-square)
 
-<img src="assets/03-softskills.jpg" width="100%" alt="Soft Skills dashboard" />
+<a href="https://github.com/MatheusFelipePereira/softskills-it-management"><img src="assets/03-softskills.jpg" width="100%" alt="Soft Skills dashboard" /></a>
+
+<a href="https://github.com/MatheusFelipePereira/softskills-it-management"><img src="https://img.shields.io/badge/📂%20Open%20repository-softskills--it--management-24292e?style=flat-square&logo=github" /></a>
 
 Power BI dashboard fed by an **automated Microsoft Forms** spreadsheet to visualize each team's **soft-skill levels** within its area.
 
@@ -134,7 +140,9 @@ Each answer maps to a competency level (**1 to 5**). The report identifies the s
 ### 📣 TechTrends — Digital Marketing Report
 `Jan 2025` · Data Mundo · ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
-<img src="assets/04-techtrends.jpg" width="100%" alt="TechTrends dashboard" />
+<a href="https://github.com/MatheusFelipePereira/techtrends-digital-marketing"><img src="assets/04-techtrends.jpg" width="100%" alt="TechTrends dashboard" /></a>
+
+<a href="https://github.com/MatheusFelipePereira/techtrends-digital-marketing"><img src="https://img.shields.io/badge/📂%20Open%20repository-techtrends--digital--marketing-24292e?style=flat-square&logo=github" /></a>
 
 Digital marketing report showing **click conversion rates, total sales revenue, transactions and overall revenue**, among other KPIs.
 
@@ -142,7 +150,9 @@ Digital marketing report showing **click conversion rates, total sales revenue, 
 ### 🛡️ Cyber — IRP (Incident Response)
 `Dec 2023 – Feb 2024` · Votorantim Cimentos · ![Power Apps](https://img.shields.io/badge/-Power%20Apps-742774?style=flat-square&logo=powerapps&logoColor=white) ![Power Automate](https://img.shields.io/badge/-Power%20Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white) ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
-<img src="assets/05-cyber-irp.jpg" width="100%" alt="Cyber IRP app" />
+<a href="https://github.com/MatheusFelipePereira/cyber-irp-incident-response"><img src="assets/05-cyber-irp.jpg" width="100%" alt="Cyber IRP app" /></a>
+
+<a href="https://github.com/MatheusFelipePereira/cyber-irp-incident-response"><img src="https://img.shields.io/badge/📂%20Open%20repository-cyber--irp--incident--response-24292e?style=flat-square&logo=github" /></a>
 
 Application for **Information Security incident management**, built end-to-end on the Power Platform.
 
@@ -160,7 +170,9 @@ Delivered in a Scrumban flow; the Power BI output is the dashboard below.
 ### 🔐 CyberSecurity Incidents — Dashboard
 `Aug 2023 – Nov 2023` · Votorantim Cimentos · ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/-DAX-F2C811?style=flat-square) ![Power Automate](https://img.shields.io/badge/-Power%20Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white)
 
-<img src="assets/06-cybersecurity-dashboard.jpg" width="100%" alt="CyberSecurity Incidents dashboard" />
+<a href="https://github.com/MatheusFelipePereira/cybersecurity-incidents-dashboard"><img src="assets/06-cybersecurity-dashboard.jpg" width="100%" alt="CyberSecurity Incidents dashboard" /></a>
+
+<a href="https://github.com/MatheusFelipePereira/cybersecurity-incidents-dashboard"><img src="https://img.shields.io/badge/📂%20Open%20repository-cybersecurity--incidents--dashboard-24292e?style=flat-square&logo=github" /></a>
 
 Indicators and metrics for **monitoring Information Security incidents**. Data extracted through **Power Automate**, transformed and loaded with **DAX / Power Query**.
 
