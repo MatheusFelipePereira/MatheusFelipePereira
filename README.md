@@ -176,6 +176,24 @@ Delivered in a Scrumban flow; the Power BI output is the dashboard below.
 
 Indicators and metrics for **monitoring Information Security incidents**. Data extracted through **Power Automate**, transformed and loaded with **DAX / Power Query**.
 
+<!-- ----------------------------- 7 ----------------------------- -->
+### ☁️ Defender for Cloud — Security Posture
+Information Security · ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Defender for Cloud](https://img.shields.io/badge/-Defender%20for%20Cloud-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![Azure Storage](https://img.shields.io/badge/-Azure%20Storage-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+<a href="https://github.com/MatheusFelipePereira/defender-for-cloud"><img src="assets/07-defender-for-cloud.png" width="100%" alt="Defender for Cloud dashboard" /></a>
+
+<a href="https://github.com/MatheusFelipePereira/defender-for-cloud"><img src="https://img.shields.io/badge/📂%20Open%20repository-defender--for--cloud-24292e?style=flat-square&logo=github" /></a>
+
+Cloud security posture dashboard for **Information Security leadership**, fed by a daily-refreshed **JSON** in an **Azure Storage Account**.
+
+<details>
+<summary><b>Details</b></summary>
+
+- 🩹 **−40%** vulnerabilities
+- 🔥 **−30%** high-severity risks
+- 📈 **+20%** overall Secure Score
+</details>
+
 ## 🎓 Certifications
 
 <p>
