@@ -1,242 +1,273 @@
-<!-- ============================  HEADER  ============================ -->
+<!-- ═══════════════════════════════  HERO  ═══════════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Matheus%20Felipe%20Pereira&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Business%20Intelligence&descAlignY=58&descSize=18" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:0D1117,45:7B2FF7,100:00F0FF&text=Matheus%20Felipe%20Pereira&fontSize=46&fontColor=FFFFFF&fontAlignY=42&animation=fadeIn&stroke=00F0FF&strokeWidth=1&desc=%3C%2F%3E%20Senior%20Data%20Analyst%20%C2%B7%20BI%20%C2%B7%20Data%20Engineering&descSize=18&descAlignY=62" alt="Matheus Felipe Pereira" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=620&lines=Transforming+data+into+business+insights+%F0%9F%93%8A;SQL+%E2%80%A2+Power+BI+%E2%80%A2+DAX+%E2%80%A2+Databricks+%E2%80%A2+PySpark;Azure+%E2%80%A2+AWS+%E2%80%A2+Power+Platform;6%2B+years+turning+raw+data+into+decisions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=700&color=00F0FF&center=true&vCenter=true&width=680&lines=%3E+initializing+data_pipeline.py+...;%3E+raw+data+%E2%86%92+insights+%E2%86%92+decisions+%E2%9A%A1;%3E+SQL+%7C+Power+BI+%7C+Databricks+%7C+PySpark;%3E+Azure+%7C+AWS+%7C+Power+Platform;%3E+6%2B+years+shipping+analytics+at+scale_" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/matheus-felipe-p/"><img src="https://img.shields.io/badge/LinkedIn-Matheus%20Felipe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/📍-São%20Paulo,%20Brazil-2c5364?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20work-2ea44f?style=for-the-badge" />
+  <a href="https://www.linkedin.com/in/matheus-felipe-p/"><img src="https://img.shields.io/badge/LinkedIn-connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F0FF&labelColor=0A66C2" /></a>
+  <img src="https://img.shields.io/badge/São%20Paulo-Brazil-0D1117?style=for-the-badge&logo=googlemaps&logoColor=00F0FF&labelColor=7B2FF7" />
+  <img src="https://img.shields.io/badge/status-open%20to%20work-0D1117?style=for-the-badge&logo=statuspage&logoColor=39FF14&labelColor=1F8B4C" />
+  <img src="https://komarev.com/ghpvc/?username=MatheusFelipePereira&style=for-the-badge&color=7B2FF7&label=PROFILE+VIEWS" />
 </p>
 
----
+<br/>
 
-## 🧭 About me
+<!-- ═══════════════════════════════  WHOAMI  ═══════════════════════════════ -->
+## `> whoami`
 
-```sql
-SELECT name, role, experience, focus
-FROM   data_professionals
-WHERE  name = 'Matheus Felipe Pereira';
-
--- name                    | role                | experience | focus
--- ------------------------+---------------------+------------+---------------------------------------------
--- Matheus Felipe Pereira  | Senior Data Analyst | 6+ years   | BI · Product Analytics · Data Visualization
+```yaml
+user:        Matheus Felipe Pereira
+role:        Senior Data Analyst
+experience:  6+ years
+location:    São Paulo, Brazil 🇧🇷
+focus:       [Business Intelligence, Product Analytics, Data Engineering, Data Visualization]
+domains:     [Marketing, Product, Information Security, Corporate Analytics]
+cloud:       [Azure, AWS, Databricks]
+mindset:     "Extract → Transform → Model → Automate → Predict → Deliver value"
 ```
 
-Senior Data Analyst supporting strategic decision-making in large, global organizations through **Business Intelligence**, **Product Analytics** and **data visualization**.
+I help large, global organizations make **strategic decisions with data** — building KPIs, executive dashboards and automated pipelines on **AWS** and **Azure**, often in areas that had no data governance or analytical direction before.
+Strong in **ETL, DataOps and data quality**, the **Power Platform**, and **Python** for statistics, A/B testing and hypothesis validation.
 
-Hands-on with **SQL, Power BI, DAX, Databricks, AWS Glue, PySpark** and data modeling, delivering solutions across **Marketing, Product, Security and Corporate Analytics** — building KPIs, executive dashboards and automated pipelines in **AWS** and **Azure**, often in areas that previously had no data governance or analytical direction.
+<br/>
 
-Solid background in **ETL, DataOps, data quality** and pipeline sustainability, strong in the **Power Platform** (Power BI, Power Apps, Power Automate), and **Python** for statistical analysis, A/B testing and hypothesis validation. Agile (Scrum / Kanban) and driven by a data-driven culture focused on measurable impact.
-
-## 📈 Impact in numbers
+<!-- ═══════════════════════════════  IMPACT  ═══════════════════════════════ -->
+## `> SELECT impact FROM career;`
 
 <table align="center">
   <tr>
-    <td align="center" width="200"><h2>+15%</h2><sub>product & campaign conversion<br/>via behavioral segmentation and cohort analysis</sub></td>
-    <td align="center" width="200"><h2>100+ h</h2><sub>manual hours saved per month<br/>with cloud automations & pipeline optimization</sub></td>
-    <td align="center" width="200"><h2>−30%</h2><sub>high-severity security risks<br/>supporting executive decisions</sub></td>
-    <td align="center" width="200"><h2>−70%</h2><sub>query & pipeline processing time<br/>for strategic dashboards</sub></td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/%2B15%25-0D1117?style=for-the-badge&labelColor=0D1117&color=00F0FF" height="38"/><br/>
+      <sub><b>conversion</b><br/>behavioral segmentation &amp; cohorts</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/100%2B%20h%2Fmo-0D1117?style=for-the-badge&labelColor=0D1117&color=7B2FF7" height="38"/><br/>
+      <sub><b>manual hours saved</b><br/>cloud automation &amp; pipelines</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/%E2%88%9230%25-0D1117?style=for-the-badge&labelColor=0D1117&color=FF2E88" height="38"/><br/>
+      <sub><b>high-severity risks</b><br/>security posture analytics</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/%E2%88%9270%25-0D1117?style=for-the-badge&labelColor=0D1117&color=39FF14" height="38"/><br/>
+      <sub><b>processing time</b><br/>queries &amp; dashboard pipelines</sub>
+    </td>
   </tr>
 </table>
 
-## 🛠️ Tech stack
+<br/>
 
-<p>
-  <b>Data & BI</b><br/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/DAX-F2C811?style=flat-square" />
-  <img src="https://img.shields.io/badge/Power%20Query%20(M)-217346?style=flat-square" />
-  <img src="https://img.shields.io/badge/Amazon%20QuickSight-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
-</p>
-<p>
-  <b>Engineering & Cloud</b><br/>
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS%20Glue-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-</p>
-<p>
-  <b>Power Platform & Ways of working</b><br/>
-  <img src="https://img.shields.io/badge/Power%20Apps-742774?style=flat-square&logo=powerapps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scrum%20%2F%20Kanban-555?style=flat-square&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white" />
-  <img src="https://img.shields.io/badge/Meta%20Ads-0467DF?style=flat-square&logo=meta&logoColor=white" />
+<!-- ═══════════════════════════════  STACK  ═══════════════════════════════ -->
+## `> ls ~/tech-stack`
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,postgres,mysql,aws,azure,git,github,vscode&theme=dark&perline=8" alt="tech icons" />
 </p>
 
-## ⚙️ Data Engineering
+<table align="center">
+  <tr>
+    <td><b>📊 Data &amp; BI</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/SQL-0D1117?style=flat-square&logo=postgresql&logoColor=00F0FF" />
+      <img src="https://img.shields.io/badge/Power%20BI-0D1117?style=flat-square&logo=powerbi&logoColor=F2C811" />
+      <img src="https://img.shields.io/badge/DAX-0D1117?style=flat-square&logo=powerbi&logoColor=F2C811" />
+      <img src="https://img.shields.io/badge/Power%20Query%20(M)-0D1117?style=flat-square&logo=microsoftexcel&logoColor=21A366" />
+      <img src="https://img.shields.io/badge/QuickSight-0D1117?style=flat-square&logo=amazonaws&logoColor=FF9900" />
+      <img src="https://img.shields.io/badge/Excel-0D1117?style=flat-square&logo=microsoftexcel&logoColor=21A366" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>⚙️ Engineering &amp; Cloud</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Databricks-0D1117?style=flat-square&logo=databricks&logoColor=FF3621" />
+      <img src="https://img.shields.io/badge/PySpark-0D1117?style=flat-square&logo=apachespark&logoColor=E25A1C" />
+      <img src="https://img.shields.io/badge/Delta%20Lake-0D1117?style=flat-square&logo=delta&logoColor=00ADD4" />
+      <img src="https://img.shields.io/badge/AWS%20Glue-0D1117?style=flat-square&logo=amazonaws&logoColor=FF9900" />
+      <img src="https://img.shields.io/badge/Azure-0D1117?style=flat-square&logo=microsoftazure&logoColor=0078D4" />
+      <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1" />
+      <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=FFD43B" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>⚡ Power Platform</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Power%20Apps-0D1117?style=flat-square&logo=powerapps&logoColor=C251C4" />
+      <img src="https://img.shields.io/badge/Power%20Automate-0D1117?style=flat-square&logo=powerautomate&logoColor=0066FF" />
+      <img src="https://img.shields.io/badge/Microsoft%20Forms-0D1117?style=flat-square&logo=microsoft&logoColor=7719AA" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>📣 Marketing &amp; Ways of working</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Google%20Analytics-0D1117?style=flat-square&logo=googleanalytics&logoColor=E37400" />
+      <img src="https://img.shields.io/badge/Meta%20Ads-0D1117?style=flat-square&logo=meta&logoColor=0467DF" />
+      <img src="https://img.shields.io/badge/Scrum%20%2F%20Kanban-0D1117?style=flat-square&logo=jira&logoColor=2684FF" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════════════════════  PIPELINE  ═══════════════════════════════ -->
+## `> run ./data-engineering`
 
 <table>
   <tr>
     <td>
       <h3>🧱 <a href="https://github.com/MatheusFelipePereira/Pipelines-databricks">Pipelines-databricks</a></h3>
-      <p>
-        <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" />
-        <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
-        <img src="https://img.shields.io/badge/Delta%20Lake-00ADD4?style=flat-square&logo=delta&logoColor=white" />
-        <img src="https://img.shields.io/badge/Spark%20SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-      </p>
+      <img src="https://img.shields.io/badge/Databricks-0D1117?style=flat-square&logo=databricks&logoColor=FF3621" />
+      <img src="https://img.shields.io/badge/PySpark-0D1117?style=flat-square&logo=apachespark&logoColor=E25A1C" />
+      <img src="https://img.shields.io/badge/Delta%20Lake-0D1117?style=flat-square&logo=delta&logoColor=00ADD4" />
+      <img src="https://img.shields.io/badge/Spark%20SQL-0D1117?style=flat-square&logo=postgresql&logoColor=00F0FF" />
       <p>End-to-end <b>Medallion</b> ETL (Bronze → Silver → Gold) for a marketing &amp; sales dataset with <b>Lakeflow Declarative Pipelines</b>: channel KPIs and <b>ROAS</b>, <b>data quality expectations</b>, orchestration with a <b>Databricks Job</b> and <b>incremental ingestion</b> with Streaming Tables.</p>
-      <p>
-        ✅ Batch pipeline &nbsp;·&nbsp; ✅ Expectations &nbsp;·&nbsp; ✅ Scheduled Job &nbsp;·&nbsp; 🚧 Incremental
-      </p>
-      <a href="https://github.com/MatheusFelipePereira/Pipelines-databricks"><img src="https://img.shields.io/badge/📂%20Open%20repository-Pipelines--databricks-24292e?style=flat-square&logo=github" /></a>
+      <code>✅ batch pipeline</code> <code>✅ expectations</code> <code>✅ scheduled job</code> <code>🚧 incremental</code>
     </td>
   </tr>
 </table>
 
 ```mermaid
 flowchart LR
-    S[(Delta source)] --> B[🥉 Bronze] --> SV[🥈 Silver<br/>expectations] --> G[🥇 Gold<br/>KPIs · ROAS]
-    J[⏱️ Job · daily] -.-> B
+    S[(Delta source)]:::src --> B[🥉 Bronze<br/>raw ingest]:::bronze --> SV[🥈 Silver<br/>cleaned · expectations]:::silver --> G[🥇 Gold<br/>KPIs · ROAS]:::gold --> D[📊 Dashboards]:::bi
+    J[⏱️ Databricks Job · daily]:::job -.-> B
+
+    classDef src    fill:#0D1117,stroke:#00F0FF,color:#00F0FF
+    classDef bronze fill:#2b1a0e,stroke:#CD7F32,color:#fff
+    classDef silver fill:#1c1f26,stroke:#C0C0C0,color:#fff
+    classDef gold   fill:#2a2410,stroke:#FFD700,color:#fff
+    classDef bi     fill:#1a0f2e,stroke:#7B2FF7,color:#fff
+    classDef job    fill:#0D1117,stroke:#39FF14,color:#39FF14,stroke-dasharray: 4 3
 ```
 
-## 🗂️ Featured projects
+<br/>
 
-> Each card is a real-world analytics delivery. Click **"Details"** to expand, or open the repository for the full write-up.
+<!-- ═══════════════════════════════  PROJECTS  ═══════════════════════════════ -->
+## `> git log --projects --featured`
 
-<!-- ----------------------------- 1 ----------------------------- -->
-### 🏎️ TDRM — Test Data & Results Management
-`Mar 2026 – Oct 2026` · act digital · ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![QuickSight](https://img.shields.io/badge/-Amazon%20QuickSight-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/MatheusFelipePereira/tdrm-test-data-management"><img src="assets/01-tdrm.jpg" width="100%" alt="TDRM dashboards" /></a>
+      <h3>🏎️ TDRM — Test Data &amp; Results Mgmt</h3>
+      <code>2026</code> <code>act digital</code><br/>
+      <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1" />
+      <img src="https://img.shields.io/badge/QuickSight-0D1117?style=flat-square&logo=amazonaws&logoColor=FF9900" />
+      <p>On-prem → <b>cloud</b> migration of the dashboards used by <b>BMW's engine testing &amp; validation</b> department: specs, durability tests, test benches, thermal monitoring and test planning.</p>
+      <a href="https://github.com/MatheusFelipePereira/tdrm-test-data-management">→ open repository</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/MatheusFelipePereira/customer-analytics-buyers-vs-leads"><img src="assets/02-customer-analytics.jpg" width="100%" alt="Customer Analytics dashboard" /></a>
+      <h3>🎯 Customer Analytics — Buyers vs Leads</h3>
+      <code>2025</code> <code>Data Mundo</code><br/>
+      <img src="https://img.shields.io/badge/Power%20BI-0D1117?style=flat-square&logo=powerbi&logoColor=F2C811" />
+      <img src="https://img.shields.io/badge/Google%20Analytics-0D1117?style=flat-square&logo=googleanalytics&logoColor=E37400" />
+      <img src="https://img.shields.io/badge/Meta%20Ads-0D1117?style=flat-square&logo=meta&logoColor=0467DF" />
+      <p>Correlates <b>buyers and leads</b> of a digital product to find the <b>best target audience</b> for the next campaigns (ETL, DAX, M).</p>
+      <a href="https://github.com/MatheusFelipePereira/customer-analytics-buyers-vs-leads">→ open repository</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/MatheusFelipePereira/defender-for-cloud"><img src="assets/07-defender-for-cloud.png" width="100%" alt="Defender for Cloud dashboard" /></a>
+      <h3>☁️ Defender for Cloud — Security Posture</h3>
+      <code>Information Security</code><br/>
+      <img src="https://img.shields.io/badge/Power%20BI-0D1117?style=flat-square&logo=powerbi&logoColor=F2C811" />
+      <img src="https://img.shields.io/badge/Azure%20Storage-0D1117?style=flat-square&logo=microsoftazure&logoColor=0078D4" />
+      <p>Cloud security posture for InfoSec leadership, fed by a daily JSON in Azure Storage. <b>−40%</b> vulnerabilities · <b>−30%</b> high-severity risks · <b>+20%</b> Secure Score.</p>
+      <a href="https://github.com/MatheusFelipePereira/defender-for-cloud">→ open repository</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/MatheusFelipePereira/cybersecurity-incidents-dashboard"><img src="assets/06-cybersecurity-dashboard.jpg" width="100%" alt="CyberSecurity Incidents dashboard" /></a>
+      <h3>🔐 CyberSecurity Incidents — Dashboard</h3>
+      <code>2023</code> <code>Votorantim Cimentos</code><br/>
+      <img src="https://img.shields.io/badge/Power%20BI-0D1117?style=flat-square&logo=powerbi&logoColor=F2C811" />
+      <img src="https://img.shields.io/badge/Power%20Automate-0D1117?style=flat-square&logo=powerautomate&logoColor=0066FF" />
+      <p>Indicators and metrics for <b>monitoring InfoSec incidents</b> — extracted with Power Automate, modeled with DAX / Power Query.</p>
+      <a href="https://github.com/MatheusFelipePereira/cybersecurity-incidents-dashboard">→ open repository</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/MatheusFelipePereira/cyber-irp-incident-response"><img src="assets/05-cyber-irp.jpg" width="100%" alt="Cyber IRP app" /></a>
+      <h3>🛡️ Cyber IRP — Incident Response App</h3>
+      <code>2023–2024</code> <code>Votorantim Cimentos</code><br/>
+      <img src="https://img.shields.io/badge/Power%20Apps-0D1117?style=flat-square&logo=powerapps&logoColor=C251C4" />
+      <img src="https://img.shields.io/badge/Power%20Automate-0D1117?style=flat-square&logo=powerautomate&logoColor=0066FF" />
+      <img src="https://img.shields.io/badge/Power%20BI-0D1117?style=flat-square&logo=powerbi&logoColor=F2C811" />
+      <p>End-to-end incident management on the Power Platform:<br/><code>Automate → Excel → Power Apps → Power BI</code></p>
+      <a href="https://github.com/MatheusFelipePereira/cyber-irp-incident-response">→ open repository</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/MatheusFelipePereira/softskills-it-management"><img src="assets/03-softskills.jpg" width="100%" alt="Soft Skills dashboard" /></a>
+      <h3>🧠 Soft Skills — IT Management</h3>
+      <code>2025</code> <code>Votorantim Cimentos</code><br/>
+      <img src="https://img.shields.io/badge/Power%20BI-0D1117?style=flat-square&logo=powerbi&logoColor=F2C811" />
+      <img src="https://img.shields.io/badge/Microsoft%20Forms-0D1117?style=flat-square&logo=microsoft&logoColor=7719AA" />
+      <p>Scores each team's <b>soft skills (1–5)</b> from an automated Forms survey to drive <b>targeted training</b>.</p>
+      <a href="https://github.com/MatheusFelipePereira/softskills-it-management">→ open repository</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/MatheusFelipePereira/techtrends-digital-marketing"><img src="assets/04-techtrends.jpg" width="100%" alt="TechTrends dashboard" /></a>
+      <h3>📣 TechTrends — Digital Marketing</h3>
+      <code>2025</code> <code>Data Mundo</code><br/>
+      <img src="https://img.shields.io/badge/Power%20BI-0D1117?style=flat-square&logo=powerbi&logoColor=F2C811" />
+      <img src="https://img.shields.io/badge/Excel-0D1117?style=flat-square&logo=microsoftexcel&logoColor=21A366" />
+      <p>Click conversion, revenue, transactions and other <b>digital marketing KPIs</b> in one report.</p>
+      <a href="https://github.com/MatheusFelipePereira/techtrends-digital-marketing">→ open repository</a>
+    </td>
+    <td width="50%" valign="middle" align="center">
+      <h3>🔭 More on the way</h3>
+      <p><code>while (learning) { build(); share(); }</code></p>
+      <a href="https://github.com/MatheusFelipePereira?tab=repositories"><img src="https://img.shields.io/badge/browse%20all%20repos-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF" /></a>
+    </td>
+  </tr>
+</table>
 
-<a href="https://github.com/MatheusFelipePereira/tdrm-test-data-management"><img src="assets/01-tdrm.jpg" width="100%" alt="TDRM dashboards" /></a>
+<br/>
 
-<a href="https://github.com/MatheusFelipePereira/tdrm-test-data-management"><img src="https://img.shields.io/badge/📂%20Open%20repository-tdrm--test--data--management-24292e?style=flat-square&logo=github" /></a>
-
-Migration of a data-visualization application used by **BMW's engine testing & validation department** from on-premises to the **cloud**, covering several dashboard applications for the full engine test lifecycle.
-
-<details>
-<summary><b>Details</b></summary>
-
-Scope covers the whole data-management and test-results lifecycle for engines and mechanical components:
-
-- 🔩 Component specifications
-- ⏱️ Engine durability testing & results
-- 🧪 Test bench operations
-- 🌡️ Thermal monitoring
-- 🗓️ Test planning & logistics
-
-**In short:** TDRM centralizes and standardizes the data generated by BMW's engine test benches in a cloud environment — from technical component specs to operational testing KPIs.
-</details>
-
-<!-- ----------------------------- 2 ----------------------------- -->
-### 🎯 Customer Analytics — Buyers vs Leads
-`Feb 2025 – Mar 2025` · Data Mundo · ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/-DAX-F2C811?style=flat-square) ![GA](https://img.shields.io/badge/-Google%20Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white) ![Meta Ads](https://img.shields.io/badge/-Meta%20Ads-0467DF?style=flat-square&logo=meta&logoColor=white)
-
-<a href="https://github.com/MatheusFelipePereira/customer-analytics-buyers-vs-leads"><img src="assets/02-customer-analytics.jpg" width="100%" alt="Customer Analytics dashboard" /></a>
-
-<a href="https://github.com/MatheusFelipePereira/customer-analytics-buyers-vs-leads"><img src="https://img.shields.io/badge/📂%20Open%20repository-customer--analytics--buyers--vs--leads-24292e?style=flat-square&logo=github" /></a>
-
-Marketing report for a digital product: analyzes **buyer and lead data** to find the **best target audience** for upcoming campaigns, highlighting the direct correlation between leads and buyers and how to leverage it to attract new customers.
-
-<details>
-<summary><b>Details</b></summary>
-
-- ETL, DAX, M (Power Query) and report design
-- Customer Analytics with Meta Ads and Google Analytics data
-</details>
-
-<!-- ----------------------------- 3 ----------------------------- -->
-### 🧠 Soft Skills — IT Management
-`Jan 2025 – Feb 2025` · Votorantim Cimentos · ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/-DAX-F2C811?style=flat-square) ![Forms](https://img.shields.io/badge/-Microsoft%20Forms-7719AA?style=flat-square)
-
-<a href="https://github.com/MatheusFelipePereira/softskills-it-management"><img src="assets/03-softskills.jpg" width="100%" alt="Soft Skills dashboard" /></a>
-
-<a href="https://github.com/MatheusFelipePereira/softskills-it-management"><img src="https://img.shields.io/badge/📂%20Open%20repository-softskills--it--management-24292e?style=flat-square&logo=github" /></a>
-
-Power BI dashboard fed by an **automated Microsoft Forms** spreadsheet to visualize each team's **soft-skill levels** within its area.
-
-<details>
-<summary><b>Details</b></summary>
-
-Each answer maps to a competency level (**1 to 5**). The report identifies the strongest and weakest behavioral skills of each person, enabling **targeted training** and specific guidance.
-</details>
-
-<!-- ----------------------------- 4 ----------------------------- -->
-### 📣 TechTrends — Digital Marketing Report
-`Jan 2025` · Data Mundo · ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-
-<a href="https://github.com/MatheusFelipePereira/techtrends-digital-marketing"><img src="assets/04-techtrends.jpg" width="100%" alt="TechTrends dashboard" /></a>
-
-<a href="https://github.com/MatheusFelipePereira/techtrends-digital-marketing"><img src="https://img.shields.io/badge/📂%20Open%20repository-techtrends--digital--marketing-24292e?style=flat-square&logo=github" /></a>
-
-Digital marketing report showing **click conversion rates, total sales revenue, transactions and overall revenue**, among other KPIs.
-
-<!-- ----------------------------- 5 ----------------------------- -->
-### 🛡️ Cyber — IRP (Incident Response)
-`Dec 2023 – Feb 2024` · Votorantim Cimentos · ![Power Apps](https://img.shields.io/badge/-Power%20Apps-742774?style=flat-square&logo=powerapps&logoColor=white) ![Power Automate](https://img.shields.io/badge/-Power%20Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white) ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-
-<a href="https://github.com/MatheusFelipePereira/cyber-irp-incident-response"><img src="assets/05-cyber-irp.jpg" width="100%" alt="Cyber IRP app" /></a>
-
-<a href="https://github.com/MatheusFelipePereira/cyber-irp-incident-response"><img src="https://img.shields.io/badge/📂%20Open%20repository-cyber--irp--incident--response-24292e?style=flat-square&logo=github" /></a>
-
-Application for **Information Security incident management**, built end-to-end on the Power Platform.
-
-<details>
-<summary><b>Details</b></summary>
-
-```text
-Power Automate (PowerFX)  ──►  Excel (storage)  ──►  Power Apps (PowerFX UI)  ──►  Power BI (visualization)
-     extract & transform
-```
-Delivered in a Scrumban flow; the Power BI output is the dashboard below.
-</details>
-
-<!-- ----------------------------- 6 ----------------------------- -->
-### 🔐 CyberSecurity Incidents — Dashboard
-`Aug 2023 – Nov 2023` · Votorantim Cimentos · ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/-DAX-F2C811?style=flat-square) ![Power Automate](https://img.shields.io/badge/-Power%20Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white)
-
-<a href="https://github.com/MatheusFelipePereira/cybersecurity-incidents-dashboard"><img src="assets/06-cybersecurity-dashboard.jpg" width="100%" alt="CyberSecurity Incidents dashboard" /></a>
-
-<a href="https://github.com/MatheusFelipePereira/cybersecurity-incidents-dashboard"><img src="https://img.shields.io/badge/📂%20Open%20repository-cybersecurity--incidents--dashboard-24292e?style=flat-square&logo=github" /></a>
-
-Indicators and metrics for **monitoring Information Security incidents**. Data extracted through **Power Automate**, transformed and loaded with **DAX / Power Query**.
-
-<!-- ----------------------------- 7 ----------------------------- -->
-### ☁️ Defender for Cloud — Security Posture
-Information Security · ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Defender for Cloud](https://img.shields.io/badge/-Defender%20for%20Cloud-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![Azure Storage](https://img.shields.io/badge/-Azure%20Storage-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-
-<a href="https://github.com/MatheusFelipePereira/defender-for-cloud"><img src="assets/07-defender-for-cloud.png" width="100%" alt="Defender for Cloud dashboard" /></a>
-
-<a href="https://github.com/MatheusFelipePereira/defender-for-cloud"><img src="https://img.shields.io/badge/📂%20Open%20repository-defender--for--cloud-24292e?style=flat-square&logo=github" /></a>
-
-Cloud security posture dashboard for **Information Security leadership**, fed by a daily-refreshed **JSON** in an **Azure Storage Account**.
-
-<details>
-<summary><b>Details</b></summary>
-
-- 🩹 **−40%** vulnerabilities
-- 🔥 **−30%** high-severity risks
-- 📈 **+20%** overall Secure Score
-</details>
-
-## 🎓 Certifications
-
-<p>
-  <img src="https://img.shields.io/badge/Azure-AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-DP--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-SC--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/EXIN-ISO%2027001-6a1b9a?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/EXIN-GDPR-6a1b9a?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/EXIN-LGPD-6a1b9a?style=for-the-badge" />
-</p>
-
-## 💬 A thought I live by
-
-> *You'll never be "just" a Data Analyst. Sometimes you're a Data Engineer, sometimes a Data Scientist.
-> In practice it's not only about analyzing — it's extracting, transforming, modeling, automating, predicting and, above all, **delivering value**.*
+<!-- ═══════════════════════════════  STATS  ═══════════════════════════════ -->
+## `> cat ~/.github/stats`
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MatheusFelipePereira&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=7B2FF7&text_color=C9D1D9&ring_color=00F0FF" alt="GitHub stats" />
+  <img height="165" src="https://streak-stats.demolab.com?user=MatheusFelipePereira&hide_border=true&background=0D1117&ring=7B2FF7&fire=00F0FF&currStreakLabel=00F0FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=30363D" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MatheusFelipePereira&bg_color=0D1117&color=00F0FF&line=7B2FF7&point=FFFFFF&area=true&area_color=7B2FF7&hide_border=true&title_color=00F0FF" alt="Contribution graph" />
+</p>
+
+<br/>
+
+<!-- ═══════════════════════════════  CERTS  ═══════════════════════════════ -->
+## `> ls ~/certifications`
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AZ--900-Azure%20Fundamentals-0D1117?style=for-the-badge&logo=microsoftazure&logoColor=00F0FF&labelColor=0078D4" />
+  <img src="https://img.shields.io/badge/DP--900-Azure%20Data-0D1117?style=for-the-badge&logo=microsoftazure&logoColor=00F0FF&labelColor=0078D4" />
+  <img src="https://img.shields.io/badge/SC--900-Security%20%26%20Identity-0D1117?style=for-the-badge&logo=microsoftazure&logoColor=00F0FF&labelColor=0078D4" />
+  <br/>
+  <img src="https://img.shields.io/badge/EXIN-ISO%2027001-0D1117?style=for-the-badge&logoColor=00F0FF&labelColor=7B2FF7" />
+  <img src="https://img.shields.io/badge/EXIN-GDPR-0D1117?style=for-the-badge&labelColor=7B2FF7" />
+  <img src="https://img.shields.io/badge/EXIN-LGPD-0D1117?style=for-the-badge&labelColor=7B2FF7" />
+</p>
+
+<br/>
+
+<!-- ═══════════════════════════════  QUOTE  ═══════════════════════════════ -->
+## `> echo $PHILOSOPHY`
+
+> [!TIP]
+> You'll never be *"just"* a Data Analyst. Sometimes you're a Data Engineer, sometimes a Data Scientist.
+> In practice it's not only about analyzing — it's **extracting, transforming, modeling, automating, predicting** and, above all, **delivering value**.
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00F0FF,55:7B2FF7,100:0D1117" />
 </p>
