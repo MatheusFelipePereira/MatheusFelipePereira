@@ -1,6 +1,6 @@
 <!-- ═══════════════════════════════  HERO  ═══════════════════════════════ -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:0D1117,45:7B2FF7,100:00F0FF&text=Matheus%20Felipe%20Pereira&fontSize=46&fontColor=FFFFFF&fontAlignY=42&animation=fadeIn&stroke=00F0FF&strokeWidth=1&desc=%3C%2F%3E%20Senior%20Data%20Analyst%20%C2%B7%20BI%20%C2%B7%20Data%20Engineering&descSize=18&descAlignY=62" alt="Matheus Felipe Pereira" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:0D1117,45:7B2FF7,100:00F0FF&text=Matheus%20Felipe%20Pereira&fontSize=46&fontColor=FFFFFF&fontAlignY=42&animation=fadeIn&stroke=00F0FF&strokeWidth=1&desc=Senior%20Data%20Analyst%20%C2%B7%20BI%20%C2%B7%20Data%20Engineering&descSize=18&descAlignY=62" alt="Matheus Felipe Pereira" />
 </p>
 
 <p align="center">
